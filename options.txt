@@ -1,0 +1,4 @@
+-d bin
+-g
+-sourcepath sources.txt
+
